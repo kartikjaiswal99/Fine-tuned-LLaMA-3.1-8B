@@ -2,7 +2,7 @@
 ---
 ### **1. Task Overview**
 
-We fine-tuned a 4-bit quantized **LLaMA 3.1 8B Instruct model** using the [TweetEval Sentiment Analysis dataset](https://huggingface.co/datasets/tweet_eval) and Customizing it. The objective was to classify tweets as **positive, negative, or neutral**.
+We fine-tuned a 4-bit quantized **LLaMA 3.1 8B Instruct model** using the TweetEval Sentiment Analysis dataset. and Customizing it. The objective was to classify tweets as **positive, negative, or neutral**.
 
 ---
 
